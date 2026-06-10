@@ -1,0 +1,6 @@
+{
+  "name": "TN Market Prices",
+  "description": "Check and track prices of vegetables, gold, grains, and fuel across Tamil Nadu with AI-powered market trends and helper calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
